@@ -1,0 +1,22 @@
+#____________________________CHƯƠNG TRÌNH SINH SỐ NGUYÊN TỐ,MÃ HÓA RSA____________________________#
+
+
+## Giới thiệu:
+
+Chương trình có 2 chức năng:
+- Sinh số nguyên tố lớn hơn số N cho trước khi nhập vào
+- Mã hóa RSA của 1 số, tạo khóa có độ dài xác định, và giải mã. Kiểm tra xem việc giải mã có đúng không
+
+## Cấu trúc chung:
+
+Các file:
+- main.ipynb : file notebooke để chạy chương trình chính
+- src.py : module xử lí tác vụ tính toán (Sinh số, kiểm tra số nguyên tố, mã hóa, giải mã)
+- display.py : module xử lí giao diện người dùng 
+- test.ipynb : file notebooke để test từng hàm, chương trình
+
+## Hướng dẫn sử dụng:
+
+- Run 2 cell trong file main.ipynb
+- Sau khi chạy, đóng chương trình, để khởi động lại chương trình, hãy Restart Kernel
+
